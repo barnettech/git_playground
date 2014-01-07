@@ -1,1 +1,1 @@
-testing adding a file to a git repository.
+testing adding a file to a git repository. version 2.
